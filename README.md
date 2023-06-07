@@ -4,18 +4,9 @@ A Portfolio Worth Exploring
 ## 📝 About Me
 Hello, I'm Uzair, a recent graduate with a degree in Computer Science. I am passionate about cybersecurity and excited to kick-start my career as a Tier 1 SOC Analyst. With a solid foundation in security principles, incident response, and threat detection, I am eager to apply my knowledge and technical skills to protect organizations from cyber threats. I am a quick learner, highly analytical, thrive in fast-paced environments and committed to continuous learning. 
 
-## 🚀 Skills
-- Threat intelligence
-- Incident detection and response
-- Security monitoring and analysis
-- SIEM management
-- Malware analysis
-- Network security
-- Vulnerability assessment
-
 ## 💼 Projects
 
-### 🔍 Project 1: Incident Response Automation
+### 🔍 Project 1: File Integrity Monitor
 [Provide a brief description of the project and its objectives. Include the technologies and tools used, as well as any notable achievements or outcomes.]
 
 - 📂 **Repository:** [Link to the GitHub repository for the project]
