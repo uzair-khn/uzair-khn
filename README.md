@@ -6,11 +6,11 @@ Hello, I'm Uzair, a recent graduate with a degree in Computer Science. I am pass
 
 ## 💼 Projects
 
-### 🔍 Project 1: File Integrity Monitor
-[Provide a brief description of the project and its objectives. Include the technologies and tools used, as well as any notable achievements or outcomes.]
+### Project 1: File Integrity Monitor
+FIM is used to used to monitor and track changes made to files and file systems. It is designed to detect any unauthorized or malicious modifications to critical system files, and directories.
+The Python language serves as the foundation for the project, providing a robust and versatile framework for its development and implementation.
 
-- 📂 **Repository:** [Link to the GitHub repository for the project]
-- 🌐 **Demo/Documentation:** [Link to a live demo or detailed documentation, if available]
+- 📂 **Documentation** https://github.com/uzair-khn/File-Integrity-Monitor
 
 ### 📊 Project 2: Security Monitoring Dashboard
 [Describe the project, including its purpose, the technologies used to build the dashboard, and any significant features or functionalities.]
