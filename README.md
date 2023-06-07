@@ -16,6 +16,11 @@ The Python language serves as the foundation for the project, providing a robust
 
 - 📂 **Documentation** https://github.com/uzair-khn/File-Integrity-Monitor
 
+## 📜 Certifications
+- SOC Level 1 (TryHackMe)
+- CompTIA A+ (Cybrary)
+- CompTIA Security+ (Cybrary)
+
 ## 🎓 Education
 - Bachelor of Science in Computer Science
 
