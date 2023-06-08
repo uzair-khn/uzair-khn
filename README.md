@@ -1,3 +1,4 @@
+![alt text](uzair-khn/pexels-tima-miroshnichenko-5380792.jpg)
 <h1>Hy, I'm Uzair! <br/> SOC Analyst | Cybersecurity Enthusiast </h1> 
 A Portfolio Worth Exploring
 
