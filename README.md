@@ -1,4 +1,3 @@
-<img src="https://github.com/uzair-khn/uzair-khn/blob/main/p6.jpg" width="1000px" height="230px"/> 
 <h1>Hy, I'm Uzair! <br/> SOC Analyst | Cybersecurity Enthusiast </h1> 
 A Portfolio Worth Exploring
 
