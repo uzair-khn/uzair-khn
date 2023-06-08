@@ -1,4 +1,4 @@
-![alt text](uzair-khn/pexels-tima-miroshnichenko-5380792.jpg)
+<img src="https://github.com/uzair-khn/uzair-khn/blob/main/pexels-tima-miroshnichenko-5380792.jpg" width="1500px" height="400px"/> 
 <h1>Hy, I'm Uzair! <br/> SOC Analyst | Cybersecurity Enthusiast </h1> 
 A Portfolio Worth Exploring
 
