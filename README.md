@@ -18,6 +18,12 @@ The 🐍 Python language serves as the foundation for the project, providing a r
 
 - 📂 **Documentation** https://github.com/uzair-khn/File-Integrity-Monitor
 
+### Project 2: Blockchain Security Analysis 
+The analysis involve the examination of the Blockchain Smart Contract to find any vulnerabilities/weakness or any risk that could compromise the security related to the smart contracts.<br/>
+Analysis is done on Remix Platform ( Ethereum Blockchain ) 
+
+- 📂 **Documentation** https://github.com/uzair-khn/Blockchain_Security_Analysis
+
 ## 📜 Certifications
 - SOC Level 1 (TryHackMe)
 - CompTIA A+ (Cybrary)
