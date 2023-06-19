@@ -10,6 +10,10 @@ Hello, I'm Uzair, a recent graduate with a degree in Computer Science. I am pass
 
 - 📂 **Documentation** https://github.com/uzair-khn/Active_Directory
 
+### Security Operation Center (SOC) Lab 
+
+- 📂 **Documentation** https://github.com/uzair-khn/SOC_Lab
+
 ## 💼 Projects
 
 ### Project 1: File Integrity Monitor
