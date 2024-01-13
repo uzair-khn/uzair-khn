@@ -29,6 +29,8 @@ Analysis is done on Remix Platform ( Ethereum Blockchain )
 - 📂 **Documentation** https://github.com/uzair-khn/Blockchain_Security_Analysis
 
 ## 📜 Certifications
+- AWS Cloud Quest: Cloud Practitioner (AWS)
+- Cybersecurity Foundations (Level Effect)
 - SOC Level 1 (TryHackMe)
 - CompTIA A+ (Cybrary)
 - CompTIA Security+ (Cybrary)
